@@ -1,0 +1,40 @@
+.container {
+    width: 1200px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+body {
+    background-color: #111;
+}
+
+header {
+    background-color: #111;
+    color: #900000;
+    margin-bottom: 150px;
+    padding: 50px;
+}
+
+main {
+    background-color: #111;
+    color: white;
+}
+
+.dado {
+    display: inline-block;
+    margin: 15px;
+}
+
+.dado h2 {
+    margin-bottom: 15px;
+}
+
+footer {
+    background-color: #111;
+    color: white;
+    margin-top: 10%;
+}
+
+footer a {
+    color: #900000;
+}

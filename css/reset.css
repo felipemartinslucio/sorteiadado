@@ -1,0 +1,13 @@
+* {
+    padding: 0; /* Zera o padding padrão do navegador */
+    margin: 0; /* Zera a margem padrão do navegador */
+    box-sizing: border-box; /* Faz com que as bordas sejam inclusas no tamanho do width e height */
+}
+
+ul, ol {
+    list-style: none; /* Remove o sublinhado dos tópicos */
+}
+
+a {
+    text-decoration: none; /* Remove a decoração dos links */
+}
